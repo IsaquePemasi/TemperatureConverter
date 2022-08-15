@@ -1,2 +1,1 @@
-<img src= ".
-/img/conversao-de-escalas-termometricas-tabela.png" alt = "tabela de conversão">
+<img src= "/img/conversao-de-escalas-termometricas-tabela.jpg" alt = "tabela de conversão">
