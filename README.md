@@ -1,3 +1,1 @@
-K = C + 273
-
-F=1,8C+32
+<img src= "/img/conversao-de-escalas-termometricas-tabela.png" alt = "tabela de conversão">
