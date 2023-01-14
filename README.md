@@ -2,6 +2,8 @@
 
 <h1>Download - </h1>
 <p>Celsius - https://github.com/IsaquePemasi/TemperatureConverter/raw/master/bin/celsius.exe</p>
+<p>Fahrenheit - https://github.com/IsaquePemasi/TemperatureConverter/raw/master/bin/fahrenheit.exe</p>
+<p>Kelvin - https://github.com/IsaquePemasi/TemperatureConverter/raw/master/bin/kelvin.exe</p>
 
 <img src= "/img/conversao-de-escalas-termometricas-tabela.jpg" alt = "tabela de conversão">
 
