@@ -1,4 +1,6 @@
 <h1>Conversor de temperatura</h1>
+
+<p><h2>Download - </h2>Celsius<a src="https://github.com/IsaquePemasi/TemperatureConverter/raw/master/bin/celsius.exe"></p>
 <img src= "/img/conversao-de-escalas-termometricas-tabela.jpg" alt = "tabela de conversão">
 
 <h2>Celsius para Kelvin</h2>
