@@ -19,7 +19,18 @@ int main(int argc, char const *argv[])
     default:
         break;
     }
-
+    std::cout << "           .'|   /`." << std::endl;
+    std::cout << "         .'.-.`-'.-.`." << std::endl;
+    std::cout << "    ..._:   .-. .-.   :_..." << std::endl;
+    std::cout << "  .'    '-.(o ) (o ).-'    `." << std::endl;
+    std::cout << " :  _    _ _`~(_)~`_ _    _  :" << std::endl;
+    std::cout << ":  /:   ' .-=_   _=-. `   ;|  :" << std::endl;
+    std::cout << ":   :|-.._  '     `  _..-|:   :" << std::endl;
+    std::cout << " :   `:| |`:-:-.-:-:'| |:'   :" << std::endl;
+    std::cout << "  `.   `.| | | | | | |.'   .'" << std::endl;
+    std::cout << "    `.   `-:_| | |_:-'   .'" << std::endl;
+    std::cout << "      `-._   ````    _.-'" << std::endl;
+    std::cout << "          ``-------''" << std::endl;
     system("Pause");
     return 0;
 }
