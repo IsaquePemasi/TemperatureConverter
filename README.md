@@ -8,7 +8,7 @@
 <img src= "/img/conversao-de-escalas-termometricas-tabela.jpg" width= 100% alt = "tabela de conversão">
 
 <h2>Celsius para Kelvin</h2>
-<img src= "/img/celsius-kelvin.png" width= 100% alt = "Conversão de Celsius para Kelvin">
+<img src= "/img/celsius-kelvin.png" alt = "Conversão de Celsius para Kelvin">
 
 <h2>Celsius para Fahrenheit</h2>
 <img src= "/img/celsius-fahrenheit.png" alt = "Conversão de Celsius para Fahrenheit ">
