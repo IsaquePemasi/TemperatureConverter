@@ -5,7 +5,7 @@
 <p>Fahrenheit (download) - https://github.com/IsaquePemasi/TemperatureConverter/raw/master/bin/fahrenheit.exe</p>
 <p>Kelvin (download) - https://github.com/IsaquePemasi/TemperatureConverter/raw/master/bin/kelvin.exe</p>
 
-<img src= "/img/conversao-de-escalas-termometricas-tabela.jpg" alt = "tabela de conversão">
+<img src= "/img/conversao-de-escalas-termometricas-tabela.jpg" width= 100% alt = "tabela de conversão">
 
 <h2>Celsius para Kelvin</h2>
 <img src= "/img/celsius-kelvin.png" alt = "Conversão de Celsius para Kelvin">
