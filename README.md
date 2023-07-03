@@ -24,3 +24,5 @@
 
 <h2>Fahrenheit to Kelvin</h2>
 <img src= "/img/fahrenheit-kelvin.png" alt = "Conversão de Fahrenheit para Kelvin">
+<h2 align="center">Autor</h2>
+<a href="https://github.com/IsaquePemasi/"><img src="https://avatars.githubusercontent.com/u/76749511?v=4" width=115></a>
